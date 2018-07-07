@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+// ---------------------------------------------------
+// basic setting
+// ---------------------------------------------------
+
+// width
+// ----------------------------------------
+$width-base: 1200px;
+$width-main: 800px;
+$width-side: 360px;
+
+// fonts
+// ----------------------------------------
+$font-base: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+
+// colors
+// ----------------------------------------
+
+// site color
+$color-main: #000;
+$color-sub: #000;
+
+// font color
+$color-baseFont: #000;
+$color-subFont: #000;
+
+// media queries
+// ----------------------------------------
+$breakPoints: (
+  sp: "only screen and (max-width: 959px)",
+  pc: "only screen and (min-width: 960px)",
+);
+
+
+
